@@ -1,0 +1,89 @@
+/* Resetting some default styles */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Mobile-first styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 0px;
+}
+
+nav.navbar {
+    width: 100%;
+    background-color: #333;
+    padding: 10px 0;
+    position: relative;
+}
+
+nav ul {
+    list-style: none;
+    padding: 10px;
+    background-color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 0px;
+}
+
+nav ul li a:hover {
+    background-color: #575757;
+}
+
+.container
+{
+    padding: 10px 30px;
+}
+
+
+
+section {
+    margin: 20px 0;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+ul {
+    list-style: disc;
+    margin-left: 20px;
+}
+
+footer {
+    margin-top: 20px;
+    text-align: center;
+    color: #777;
+}
+
+/* Media query for larger screens */
+@media (min-width: 768px) {
+    body {
+        max-width: 100%;
+        margin: auto;
+    }
+
+    nav ul {
+        justify-content: flex-start;
+    }
+
+    nav ul li {
+        margin-right: 20px;
+    }
+}
