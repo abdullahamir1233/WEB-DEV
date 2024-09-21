@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         // Populate Skills Section
         const technicalSkills = document.querySelector("#skills div:nth-child(1) ul");
-        const softSkills = document.querySelector("#skills div:nth-child(2) ul");
+        const softSkills = document.querySelector("#soft_skills  ul");
 
         technicalSkills.innerHTML = "";
         softSkills.innerHTML = "";
