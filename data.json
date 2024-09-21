@@ -1,0 +1,70 @@
+{
+    "personal": {
+      "name": "Muhammad Abdullah Amir",
+      "title": "Professional Software Developer | Freelancer | VR & Blockchain Enthusiast",
+      "location": "Lahore, Pakistan",
+      "email": "abdullah1233amir@gmail.com",
+      "socialMedia": {
+        "instagram": "https://www.instagram.com/abdullahamir1233?igsh=MWhsMjA2NG96ZjBxMg==",
+        "phone": "+923316490171"
+      }
+    },
+    "projects": [
+      {
+        "title": "Shogi / Chess",
+        "description": "Fully functional game developed in C++ featuring custom graphics."
+      },
+      {
+        "title": "Snooker in Virtual Reality",
+        "description": "Created in Unity with comprehensive VR controller integration."
+      },
+      {
+        "title": "Hostel Hub",
+        "description": "A Flutter application designed for efficient hostel searches, integrated with Firebase backend."
+      },
+      {
+        "title": "Smart Contract Access Control Vulnerabilities",
+        "description": "In-depth research on access control issues within blockchain technology."
+      }
+    ],
+    "skills": {
+      "technical": [
+        "C/C++ Programming",
+        "Python Development",
+        "Flutter/Dart Mobile Development",
+        "HTML/CSS Web Design",
+        "Unity 3D Game Development",
+        "MongoDB Database Management",
+        "SQL Querying",
+        "Docker Containerization"
+      ],
+      "soft": [
+        "Effective Team Collaboration",
+        "Advanced Problem Solving",
+        "Strategic Project Management"
+      ]
+    },
+    "education": [
+      {
+        "degree": "Bachelor's in Computer Science",
+        "institution": "Information Technology University, Lahore",
+        "duration": "2021-Present"
+      },
+      {
+        "degree": "FSc Pre-Engineering",
+        "institution": "Punjab Group of Colleges, Lahore",
+        "duration": "2019-2021"
+      },
+      {
+        "degree": "Matriculation",
+        "institution": "Crescent Model School, Lahore",
+        "duration": "2019"
+      }
+    ],
+    "certifications": [
+      "IntraUniversity Programming Competitions - Participant",
+      "ITEC Programming Competition at UET - Participant",
+      "PuCon Programming Competition at PUCIT - Participant"
+    ]
+  }
+  
